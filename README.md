@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0283-move-zeroes) |
