@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0053-maximum-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0344-reverse-string) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
