@@ -2,26 +2,29 @@ class Solution
 {
     public boolean isValid(String s)
     {
-    boolean found = true;
-    while( found )
-    {
-        found = false;
-        if(s.contains("()"))
+        Stack<Character> stack = new Stack<>();
+        for( char ch : s.toCharArray() )
         {
-           s = s.replace("()", "");
-           found = true;
+            if( ch == '(' || ch == '{' || ch == '[' )
+            {
+                stack.push(ch);
+            }
+            else
+            {
+                if( stack.isEmpty() )
+                {
+                    return false;
+                }
+
+                char top = stack.pop();
+                if( (ch == ')' && top != '(') || 
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[') )
+                  {
+                    return false;
+                  }
+            }
         }
-        if( s.contains("{}"))
-        {
-            s = s.replace("{}","");
-            found = true;
-        }
-        if(s.contains("[]"))
-        {
-            s = s.replace("[]","");
-            found = true;
-        }
-    }
-    return s.length() == 0;
+            return stack.isEmpty();
     }
 }
