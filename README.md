@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -172,8 +174,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
