@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0739-daily-temperatures) |
@@ -186,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
