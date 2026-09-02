@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dev-Ashish-Mishra/My-DSA-Journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
