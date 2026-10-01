@@ -1,22 +1,17 @@
-class Solution {
-    public int missingNumber(int[] nums) {
+class Solution
+{
+    public int missingNumber(int[] nums)
+    {
         int n = nums.length;
-        
-        for(int i = 0;i<=n;i++)
+        int exceptedSum = n * (n+1) / 2;
+
+        int actualSum = 0;
+
+        for( int num : nums )
         {
-            boolean found = false;
-            for(int j = 0;j<n;j++)
-            {
-                if(nums[j] == i)
-                {
-                    found = true;
-                    break;
-                }
-            }
-            if(found == false){
-            return i;
-            }
+            actualSum += num;
         }
-        return -1;
+
+        return exceptedSum - actualSum;
     }
 }
